@@ -1,1 +1,3 @@
-# ts-jest-unit-test-min
+# ts-unit-test-jest-min
+
+ ts-unit-test-jest-min prototype for SoftSpiders
