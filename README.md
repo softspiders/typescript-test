@@ -1,6 +1,6 @@
 # Minimalistic test example on TypeScript
 
-## Tags for SoftSpiders
+## SoftSpiders Tags
 
 * ts
 * test
