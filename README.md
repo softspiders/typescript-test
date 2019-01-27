@@ -1,3 +1,22 @@
-# ts-unit-test-jest-min
+# TypeScript's minimalistic test example
 
- ts-unit-test-jest-min prototype for SoftSpiders
+## Requirements
+
+* [Node.js](https://nodejs.org/en/download/package-manager/)
+* [TypeScript](https://www.typescriptlang.org/)
+
+## Istallation
+
+```sh
+npm i
+```
+
+## Running test
+
+```sh
+node test
+```
+
+### License
+
+ts-test is [MIT licensed](./LICENSE).
