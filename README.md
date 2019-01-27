@@ -1,4 +1,4 @@
-# TypeScript's minimalistic test example
+# Minimalistic test example on TypeScript
 
 ## Requirements
 
