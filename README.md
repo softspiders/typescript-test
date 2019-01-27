@@ -1,5 +1,10 @@
 # Minimalistic test example on TypeScript
 
+## Tags for SoftSpiders
+
+* ts
+* test
+
 ## Ancestors
 
 TBD
