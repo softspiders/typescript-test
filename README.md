@@ -4,6 +4,7 @@
 
 * [Node.js](https://nodejs.org/en/download/package-manager/)
 * [TypeScript](https://www.typescriptlang.org/)
+* [Jest](https://jestjs.io/)
 
 ## Istallation
 
