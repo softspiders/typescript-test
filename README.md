@@ -1,4 +1,4 @@
-# Minimalistic test example on TypeScript
+# Minimalistic test example in TypeScript
 
 ## SoftSpiders Tags
 
