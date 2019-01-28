@@ -38,4 +38,4 @@ yarn test
 
 ### License
 
-ts-test is [MIT licensed](./LICENSE).
+min-test-in-typescript is [MIT licensed](./LICENSE).
