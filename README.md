@@ -35,6 +35,11 @@ yarn
 ```sh
 node test
 ```
+or
+
+```sh
+yarn test
+```
 
 ### License
 
