@@ -5,9 +5,13 @@
 * ts
 * test
 
-## Ancestors
+## Direct ancestors
 
 [ts-hw](https://github.com/softspider/ts-hw)
+
+## Direct descendants
+
+Not yet
 
 ## Requirements
 
