@@ -1,10 +1,5 @@
 # Minimalistic test example in TypeScript
 
-## SoftSpiders Tags
-
-* ts
-* test
-
 ## Direct ancestors
 
 [ts-hw](https://github.com/softspider/ts-hw)
