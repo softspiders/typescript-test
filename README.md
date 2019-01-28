@@ -19,6 +19,7 @@ Not yet
 ```sh
 npm i
 ```
+
 or
 
 ```sh
@@ -30,11 +31,16 @@ yarn
 ```sh
 node test
 ```
+
 or
 
 ```sh
 yarn test
 ```
+
+## Authors
+
+[Alexander Lapygin](https://github.com/AlexanderLapygin)
 
 ### License
 
