@@ -24,6 +24,11 @@ Not yet
 ```sh
 npm i
 ```
+or
+
+```sh
+yarn
+```
 
 ## Running test
 
