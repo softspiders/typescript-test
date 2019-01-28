@@ -2,7 +2,7 @@
 
 ## Direct ancestors
 
-[HelloWorld in TypeScript](https://github.com/softspider/helloworld-in-typescript)
+[helloworld-in-typescript](https://github.com/softspider/helloworld-in-typescript)
 
 ## Direct descendants
 
