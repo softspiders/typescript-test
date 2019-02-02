@@ -14,7 +14,7 @@ Not yet
 * [TypeScript](https://www.typescriptlang.org/)
 * [Jest](https://jestjs.io/)
 
-## Istallation
+## Installation
 
 ```sh
 npm i
