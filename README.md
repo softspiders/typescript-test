@@ -1,8 +1,9 @@
-# Minimalistic test example in TypeScript
+# Minimalistic test example in TypeScript in Jest
 
 ## Direct ancestors
 
-[helloworld-in-typescript](https://github.com/softspider/helloworld-in-typescript)
+* [helloworld-in-typescript](https://github.com/softspider/helloworld-in-typescript)
+* [js-test](https://github.com/softspider/js-test)
 
 ## Direct descendants
 
@@ -27,12 +28,6 @@ yarn
 ```
 
 ## Running test
-
-```sh
-node test
-```
-
-or
 
 ```sh
 yarn test
