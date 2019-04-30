@@ -1,11 +1,11 @@
 # Minimalistic test example in TypeScript in Jest
 
-## Direct ancestors
+## Direct feature ancestors
 
 * [helloworld-in-typescript](https://github.com/softspider/helloworld-in-typescript)
 * [js-test](https://github.com/softspider/js-test)
 
-## Direct descendants
+## Direct feature descendants
 
 Not yet
 
