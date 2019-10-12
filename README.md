@@ -7,7 +7,7 @@
 
 ## Direct feature descendants
 
-Not yet
+Yet absent
 
 ## Requirements
 
