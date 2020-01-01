@@ -7,7 +7,7 @@
 
 ## Direct feature descendants
 
-Yet absent
+[Minimalistic React module in TypeScript with Storybook and Storyshots](https://github.com/softspider/react-ts-storybook-storyshots/blob/master/README.md)
 
 ## Requirements
 
