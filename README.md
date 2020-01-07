@@ -1,5 +1,12 @@
 # Minimalistic test example in TypeScript in Jest
 
+
+## Feature tags
+
+- jest
+- template
+- typescript
+
 ## Direct feature ancestors
 
 * [helloworld-in-typescript](https://github.com/softspider/helloworld-in-typescript)
