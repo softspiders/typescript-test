@@ -1,3 +1,5 @@
+SOFTSPIDERS
+
 # Minimalistic test example in TypeScript in Jest
 
 
@@ -7,12 +9,12 @@
 - template
 - typescript
 
-## Direct feature ancestors
+## Direct ancestors
 
 * [helloworld-in-typescript](https://github.com/softspider/helloworld-in-typescript)
 * [js-test](https://github.com/softspider/js-test)
 
-## Direct feature descendants
+## Direct descendants
 
 [Minimalistic React module in TypeScript with Storybook and Storyshots](https://github.com/softspider/react-ts-storybook-storyshots/blob/master/README.md)
 
