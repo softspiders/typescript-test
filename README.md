@@ -11,7 +11,7 @@ SOFTSPIDERS
 
 ## Direct ancestors
 
-* [helloworld-in-typescript](https://github.com/softspiders/helloworld-in-typescript)
+* [helloworld-in-typescript](https://github.com/softspiders/typescript)
 * [jest](https://github.com/softspiders/jest)
 
 ## Direct descendants
