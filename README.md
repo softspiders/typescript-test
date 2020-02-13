@@ -1,4 +1,4 @@
-SOFTSPIDERS
+[SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
 # Minimalistic test example in TypeScript in Jest
 
@@ -6,6 +6,7 @@ SOFTSPIDERS
 ## Feature tags
 
 - jest
+- starter
 - template
 - typescript
 
@@ -17,6 +18,8 @@ SOFTSPIDERS
 ## Direct descendants
 
 [Minimalistic React module in TypeScript with Storybook and Storyshots](https://github.com/softspiders/react-ts-storybook-storyshots/blob/master/README.md)
+
+---
 
 ## Requirements
 
