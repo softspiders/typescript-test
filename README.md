@@ -2,6 +2,7 @@
 
 # Minimalistic test example in TypeScript in Jest
 
+---
 
 ## Feature tags
 
@@ -10,10 +11,18 @@
 - template
 - typescript
 
+---
+
+## Authors
+
+[Alexander Lapygin](https://github.com/AlexanderLapygin)
+
+---
+
 ## Direct ancestors
 
-* [helloworld-in-typescript](https://github.com/softspiders/typescript)
-* [jest](https://github.com/softspiders/jest)
+- [helloworld-in-typescript](https://github.com/softspiders/typescript)
+- [jest-starter](https://github.com/softspiders/jest-starter)
 
 ## Direct descendants
 
@@ -27,6 +36,8 @@
 * [TypeScript](https://www.typescriptlang.org/)
 * [Jest](https://jestjs.io/)
 
+---
+
 ## Installation
 
 ```sh
@@ -39,15 +50,15 @@ or
 yarn
 ```
 
+---
+
 ## Running test
 
 ```sh
 yarn test
 ```
 
-## Authors
-
-[Alexander Lapygin](https://github.com/AlexanderLapygin)
+---
 
 ### License
 
